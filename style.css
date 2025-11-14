@@ -1,0 +1,48 @@
+/* p{
+    color:red;
+    font-size: 25px; */
+/* }
+.jk{
+    color:blue;
+}
+
+
+#jk1{
+    color:brown;
+}
+div{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    text-align: center;
+    align-content: center;
+    padding:5px;
+    margin:10px 200px;
+    border: 1px solid red
+}
+.ut{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    background-color: white;
+    border: black 4px;
+} */
+.assignment{
+    width: 500px;
+    height: 300px;
+    padding: 1px;
+    margin: 1px;
+    border: 5px solid black;
+    background-color: white;
+}
+.under{
+    width: 400px;
+    height: 100px;
+    margin: 10px;
+    padding: 1px;
+    border: 35px solid rgb(8, 8, 218);
+    background-color: yellow;
+    align-content: center;
+}
+
+
