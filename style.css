@@ -27,7 +27,7 @@ div{
     background-color: white;
     border: black 4px;
 } */
-.assignment{
+/* .assignment{
     width: 500px;
     height: 300px;
     padding: 1px;
@@ -43,6 +43,42 @@ div{
     border: 35px solid rgb(8, 8, 218);
     background-color: yellow;
     align-content: center;
+} */
+/* span{ 
+    display:block;
 }
+/* div{
+    display: inline;
+} */
+.container{
+    border:2px solid black;
+    width: 1450px;
+    height:700px;
+    padding:20px;
+   
 
-
+}
+.box{
+    
+    width:400px;
+    height:600px;
+    padding:10px;
+    margin:15px;
+    display: inline-block;
+   
+}
+.box1{
+ background-color: goldenrod;
+ color:black;
+ text-align: center;
+} 
+.box2{
+    background-color: rgb(193, 232, 36);
+ color:black;
+ text-align: center;
+}
+.box3{
+    background-color:rgb(51, 188, 243);
+ color:black;
+ text-align: center;
+}
